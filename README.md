@@ -1,6 +1,6 @@
 # Ciao, sono Alessandro Pindinelli (il Pindi)
 
-Sviluppatore Full-Stack con oltre 15 anni di esperienza.  
+Sviluppatore Full-Stack con oltre 16 anni di esperienza.  
 Appassionato di soluzioni web efficienti, analisi approfondite e problem solving creativo.
 
 ---
