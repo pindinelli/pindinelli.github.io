@@ -17,7 +17,7 @@ Appassionato di soluzioni web efficienti, analisi approfondite e problem solving
 ## Contatti
 
 - 🌐 [pindinelli.com](https://pindinelli.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/tuonome)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandro-pindinelli-267a3745/)
 
 ---
 
